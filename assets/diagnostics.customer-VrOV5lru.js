@@ -1,0 +1,1 @@
+const s="",t={},n={},o=[],e={},u="客户构建不包含管理员诊断数据（占位）",a={generatedAt:s,summary:t,statusCounts:n,issues:o,buildInfo:e,_note:u};export{u as _note,e as buildInfo,a as default,s as generatedAt,o as issues,n as statusCounts,t as summary};
